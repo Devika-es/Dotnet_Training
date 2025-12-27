@@ -1,0 +1,15 @@
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\obj\Debug\net10.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\obj\Debug\net10.0\exercise1.AssemblyInfoInputs.cache
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\obj\Debug\net10.0\exercise1.AssemblyInfo.cs
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\obj\Debug\net10.0\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\bin\Debug\net10.0\exercise1.exe
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\bin\Debug\net10.0\exercise1.deps.json
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\bin\Debug\net10.0\exercise1.runtimeconfig.json
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\bin\Debug\net10.0\exercise1.dll
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\bin\Debug\net10.0\exercise1.pdb
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\obj\Debug\net10.0\exercise1.dll
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\obj\Debug\net10.0\refint\exercise1.dll
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\obj\Debug\net10.0\exercise1.pdb
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\obj\Debug\net10.0\exercise1.genruntimeconfig.cache
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\obj\Debug\net10.0\ref\exercise1.dll
+C:\Users\devik\OneDrive\Documents\training\practice\exercise1\obj\Debug\net10.0\exercise1.sourcelink.json
