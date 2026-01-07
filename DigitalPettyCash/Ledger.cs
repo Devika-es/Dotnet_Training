@@ -10,21 +10,6 @@ public class Ledger<T> where T : Transaction
         transactions.Add(entry);
     }
 
-  
-    // public List<T> GetTransactionsByDate(DateTime date)
-    // {
-    //     List<T> result = new List<T>();
-
-    //     foreach (T transaction in transactions)
-    //     {
-    //         if (transaction.Date.Date == date.Date)
-    //         {
-    //             result.Add(transaction);
-    //         }
-    //     }
-
-    //     return result;
-    // }
 
    
     public double CalculateTotal()
