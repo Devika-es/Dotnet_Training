@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhoneCallSubscription")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fafd9d603322c31082501a3b2a2b4e61de3d7a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d347b14874f155c5e18fc8834e016ee2c52b4d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhoneCallSubscription")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhoneCallSubscription")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
