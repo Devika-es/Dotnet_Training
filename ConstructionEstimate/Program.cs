@@ -49,12 +49,12 @@ class Program
 }
 public class ConstructionEstimateException: Exception
 {
-    public ConstructionEstimateException():base()
+    public ConstructionEstimateException():base("Sorry your Construction Estimate is not approved")
     {
-        System.Console.WriteLine("Sorry your Construction Estimate is not approved");
+       
     }
     public ConstructionEstimateException(string message):base(message)
     {
-        System.Console.WriteLine(message);
+       
     }
 }

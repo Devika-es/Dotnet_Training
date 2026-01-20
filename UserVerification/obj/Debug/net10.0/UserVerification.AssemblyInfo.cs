@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserVerification")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1ede0ddbdea9ba449781674ecf6a4dc1234b51c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a56eece5cec44a126f0e0a9f18383cd07e066b0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserVerification")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserVerification")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

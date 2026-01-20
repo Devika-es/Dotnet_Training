@@ -23,6 +23,10 @@ class Program
                 System.Console.WriteLine("Payment successful");
             }
         }
+        catch(InsufficientBalanceException ex)
+        {
+            System.Console.WriteLine(ex.Message);
+        }
         catch(Exception ex)
         {
             System.Console.WriteLine(ex.Message);
@@ -49,8 +53,9 @@ class Program
 }
 public class InsufficientBalanceException : Exception
 {
-    public InsufficientBalanceException():base()
+    public InsufficientBalanceException()
     {
         System.Console.WriteLine("Insufficient balance in your digital wallet");
     }
+  
 }

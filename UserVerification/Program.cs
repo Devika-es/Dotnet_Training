@@ -59,12 +59,12 @@ class Program
 }
 public class InvalidPhoneNumberException : Exception
 {
-    public InvalidPhoneNumberException():base()
+    public InvalidPhoneNumberException():base("Invalid phone number")
     {
-        System.Console.WriteLine("Invalid phone number");
+        
     }
     public InvalidPhoneNumberException(string message):base(message)
     {
-        System.Console.WriteLine(message);
+       
     }
 }
