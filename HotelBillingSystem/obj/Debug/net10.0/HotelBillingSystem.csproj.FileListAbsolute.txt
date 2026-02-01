@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\HotelBillingSystem\bin\Debug\net10.0\HotelBillingSystem.exe
+C:\Projects\Dotnet_Training\HotelBillingSystem\bin\Debug\net10.0\HotelBillingSystem.deps.json
+C:\Projects\Dotnet_Training\HotelBillingSystem\bin\Debug\net10.0\HotelBillingSystem.runtimeconfig.json
+C:\Projects\Dotnet_Training\HotelBillingSystem\bin\Debug\net10.0\HotelBillingSystem.dll
+C:\Projects\Dotnet_Training\HotelBillingSystem\bin\Debug\net10.0\HotelBillingSystem.pdb
+C:\Projects\Dotnet_Training\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.sourcelink.json
+C:\Projects\Dotnet_Training\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.dll
+C:\Projects\Dotnet_Training\HotelBillingSystem\obj\Debug\net10.0\refint\HotelBillingSystem.dll
+C:\Projects\Dotnet_Training\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.pdb
+C:\Projects\Dotnet_Training\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\HotelBillingSystem\obj\Debug\net10.0\ref\HotelBillingSystem.dll
