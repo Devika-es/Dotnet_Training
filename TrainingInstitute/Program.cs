@@ -56,12 +56,13 @@ class Program
                             System.Console.Write("Enter updated marks: ");
                             int updatedMarks=Int32.Parse(Console.ReadLine());
                             var updatedict=utilityObj.UpdateStudentMarks(id,updatedMarks);
-                            if(updatedict!=null)
+                            if(updatedict.Count==0)
                             {
-                                foreach(var detail in updatedict)
-                                {
-                                    System.Console.WriteLine($"{detail.Key}\t{detail.Value}");
-                                }
+                                System.Console.WriteLine("Student id not found");
+                            }
+                            else
+                            {
+                                System.Console.WriteLine("Marks updated successfully");
                             }
                             break;
 

@@ -22,12 +22,13 @@ public class StudentUtility
     public Dictionary<string,Student> UpdateStudentMarks(string id,int marks)
     {
         Dictionary<string,Student> updateStudent=new Dictionary<string,Student>();
-        foreach(var item in Program.studentDetails)
+        foreach(Student student in Program.studentDetails.Values)
         {
-            if(item.Value.Id==id)
+            if(student.Id==id)
             {
-                item.Value.Marks=marks;
-                updateStudent.Add(id,item.Value);
+                student.Marks=marks;
+                updateStudent.Add(student.Id,student);
+                break;
             }
         }
         return updateStudent;
