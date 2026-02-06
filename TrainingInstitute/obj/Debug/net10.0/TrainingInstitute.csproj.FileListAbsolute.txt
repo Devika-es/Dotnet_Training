@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\TrainingInstitute\bin\Debug\net10.0\TrainingInstitute.exe
+C:\Projects\Dotnet_Training\TrainingInstitute\bin\Debug\net10.0\TrainingInstitute.deps.json
+C:\Projects\Dotnet_Training\TrainingInstitute\bin\Debug\net10.0\TrainingInstitute.runtimeconfig.json
+C:\Projects\Dotnet_Training\TrainingInstitute\bin\Debug\net10.0\TrainingInstitute.dll
+C:\Projects\Dotnet_Training\TrainingInstitute\bin\Debug\net10.0\TrainingInstitute.pdb
+C:\Projects\Dotnet_Training\TrainingInstitute\obj\Debug\net10.0\TrainingInstitute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\TrainingInstitute\obj\Debug\net10.0\TrainingInstitute.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\TrainingInstitute\obj\Debug\net10.0\TrainingInstitute.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\TrainingInstitute\obj\Debug\net10.0\TrainingInstitute.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\TrainingInstitute\obj\Debug\net10.0\TrainingInstitute.sourcelink.json
+C:\Projects\Dotnet_Training\TrainingInstitute\obj\Debug\net10.0\TrainingInstitute.dll
+C:\Projects\Dotnet_Training\TrainingInstitute\obj\Debug\net10.0\refint\TrainingInstitute.dll
+C:\Projects\Dotnet_Training\TrainingInstitute\obj\Debug\net10.0\TrainingInstitute.pdb
+C:\Projects\Dotnet_Training\TrainingInstitute\obj\Debug\net10.0\TrainingInstitute.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\TrainingInstitute\obj\Debug\net10.0\ref\TrainingInstitute.dll
