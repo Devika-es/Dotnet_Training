@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\XamXpert\bin\Debug\net10.0\XamXpert.exe
+C:\Projects\Dotnet_Training\XamXpert\bin\Debug\net10.0\XamXpert.deps.json
+C:\Projects\Dotnet_Training\XamXpert\bin\Debug\net10.0\XamXpert.runtimeconfig.json
+C:\Projects\Dotnet_Training\XamXpert\bin\Debug\net10.0\XamXpert.dll
+C:\Projects\Dotnet_Training\XamXpert\bin\Debug\net10.0\XamXpert.pdb
+C:\Projects\Dotnet_Training\XamXpert\obj\Debug\net10.0\XamXpert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\XamXpert\obj\Debug\net10.0\XamXpert.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\XamXpert\obj\Debug\net10.0\XamXpert.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\XamXpert\obj\Debug\net10.0\XamXpert.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\XamXpert\obj\Debug\net10.0\XamXpert.sourcelink.json
+C:\Projects\Dotnet_Training\XamXpert\obj\Debug\net10.0\XamXpert.dll
+C:\Projects\Dotnet_Training\XamXpert\obj\Debug\net10.0\refint\XamXpert.dll
+C:\Projects\Dotnet_Training\XamXpert\obj\Debug\net10.0\XamXpert.pdb
+C:\Projects\Dotnet_Training\XamXpert\obj\Debug\net10.0\XamXpert.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\XamXpert\obj\Debug\net10.0\ref\XamXpert.dll
