@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.exe
+C:\Projects\Dotnet_Training\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.deps.json
+C:\Projects\Dotnet_Training\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.runtimeconfig.json
+C:\Projects\Dotnet_Training\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.dll
+C:\Projects\Dotnet_Training\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.pdb
+C:\Projects\Dotnet_Training\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.sourcelink.json
+C:\Projects\Dotnet_Training\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.dll
+C:\Projects\Dotnet_Training\MiniOrderSystem\obj\Debug\net10.0\refint\MiniOrderSystem.dll
+C:\Projects\Dotnet_Training\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.pdb
+C:\Projects\Dotnet_Training\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\MiniOrderSystem\obj\Debug\net10.0\ref\MiniOrderSystem.dll
