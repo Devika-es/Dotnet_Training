@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\bin\Debug\net10.0\GlobalCargoSolutions.exe
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\bin\Debug\net10.0\GlobalCargoSolutions.deps.json
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\bin\Debug\net10.0\GlobalCargoSolutions.runtimeconfig.json
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\bin\Debug\net10.0\GlobalCargoSolutions.dll
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\bin\Debug\net10.0\GlobalCargoSolutions.pdb
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\obj\Debug\net10.0\GlobalCargoSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\obj\Debug\net10.0\GlobalCargoSolutions.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\obj\Debug\net10.0\GlobalCargoSolutions.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\obj\Debug\net10.0\GlobalCargoSolutions.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\obj\Debug\net10.0\GlobalCargoSolutions.sourcelink.json
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\obj\Debug\net10.0\GlobalCargoSolutions.dll
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\obj\Debug\net10.0\refint\GlobalCargoSolutions.dll
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\obj\Debug\net10.0\GlobalCargoSolutions.pdb
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\obj\Debug\net10.0\GlobalCargoSolutions.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\GlobalCargoSolutions\obj\Debug\net10.0\ref\GlobalCargoSolutions.dll
