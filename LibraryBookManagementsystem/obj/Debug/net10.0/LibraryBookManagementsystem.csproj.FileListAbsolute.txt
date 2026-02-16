@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\bin\Debug\net10.0\LibraryBookManagementsystem.exe
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\bin\Debug\net10.0\LibraryBookManagementsystem.deps.json
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\bin\Debug\net10.0\LibraryBookManagementsystem.runtimeconfig.json
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\bin\Debug\net10.0\LibraryBookManagementsystem.dll
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\bin\Debug\net10.0\LibraryBookManagementsystem.pdb
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\obj\Debug\net10.0\LibraryBookManagementsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\obj\Debug\net10.0\LibraryBookManagementsystem.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\obj\Debug\net10.0\LibraryBookManagementsystem.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\obj\Debug\net10.0\LibraryBookManagementsystem.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\obj\Debug\net10.0\LibraryBookManagementsystem.sourcelink.json
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\obj\Debug\net10.0\LibraryBookManagementsystem.dll
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\obj\Debug\net10.0\refint\LibraryBookManagementsystem.dll
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\obj\Debug\net10.0\LibraryBookManagementsystem.pdb
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\obj\Debug\net10.0\LibraryBookManagementsystem.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\LibraryBookManagementsystem\obj\Debug\net10.0\ref\LibraryBookManagementsystem.dll
