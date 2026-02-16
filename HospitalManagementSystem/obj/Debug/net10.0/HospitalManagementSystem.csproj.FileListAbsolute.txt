@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\HospitalManagementSystem\bin\Debug\net10.0\HospitalManagementSystem.exe
+C:\Projects\Dotnet_Training\HospitalManagementSystem\bin\Debug\net10.0\HospitalManagementSystem.deps.json
+C:\Projects\Dotnet_Training\HospitalManagementSystem\bin\Debug\net10.0\HospitalManagementSystem.runtimeconfig.json
+C:\Projects\Dotnet_Training\HospitalManagementSystem\bin\Debug\net10.0\HospitalManagementSystem.dll
+C:\Projects\Dotnet_Training\HospitalManagementSystem\bin\Debug\net10.0\HospitalManagementSystem.pdb
+C:\Projects\Dotnet_Training\HospitalManagementSystem\obj\Debug\net10.0\HospitalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\HospitalManagementSystem\obj\Debug\net10.0\HospitalManagementSystem.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\HospitalManagementSystem\obj\Debug\net10.0\HospitalManagementSystem.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\HospitalManagementSystem\obj\Debug\net10.0\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\HospitalManagementSystem\obj\Debug\net10.0\HospitalManagementSystem.sourcelink.json
+C:\Projects\Dotnet_Training\HospitalManagementSystem\obj\Debug\net10.0\HospitalManagementSystem.dll
+C:\Projects\Dotnet_Training\HospitalManagementSystem\obj\Debug\net10.0\refint\HospitalManagementSystem.dll
+C:\Projects\Dotnet_Training\HospitalManagementSystem\obj\Debug\net10.0\HospitalManagementSystem.pdb
+C:\Projects\Dotnet_Training\HospitalManagementSystem\obj\Debug\net10.0\HospitalManagementSystem.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\HospitalManagementSystem\obj\Debug\net10.0\ref\HospitalManagementSystem.dll
