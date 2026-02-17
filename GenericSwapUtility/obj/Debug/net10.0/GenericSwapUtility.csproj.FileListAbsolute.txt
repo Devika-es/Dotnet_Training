@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\GenericSwapUtility\bin\Debug\net10.0\GenericSwapUtility.exe
+C:\Projects\Dotnet_Training\GenericSwapUtility\bin\Debug\net10.0\GenericSwapUtility.deps.json
+C:\Projects\Dotnet_Training\GenericSwapUtility\bin\Debug\net10.0\GenericSwapUtility.runtimeconfig.json
+C:\Projects\Dotnet_Training\GenericSwapUtility\bin\Debug\net10.0\GenericSwapUtility.dll
+C:\Projects\Dotnet_Training\GenericSwapUtility\bin\Debug\net10.0\GenericSwapUtility.pdb
+C:\Projects\Dotnet_Training\GenericSwapUtility\obj\Debug\net10.0\GenericSwapUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\GenericSwapUtility\obj\Debug\net10.0\GenericSwapUtility.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\GenericSwapUtility\obj\Debug\net10.0\GenericSwapUtility.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\GenericSwapUtility\obj\Debug\net10.0\GenericSwapUtility.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\GenericSwapUtility\obj\Debug\net10.0\GenericSwapUtility.sourcelink.json
+C:\Projects\Dotnet_Training\GenericSwapUtility\obj\Debug\net10.0\GenericSwapUtility.dll
+C:\Projects\Dotnet_Training\GenericSwapUtility\obj\Debug\net10.0\refint\GenericSwapUtility.dll
+C:\Projects\Dotnet_Training\GenericSwapUtility\obj\Debug\net10.0\GenericSwapUtility.pdb
+C:\Projects\Dotnet_Training\GenericSwapUtility\obj\Debug\net10.0\GenericSwapUtility.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\GenericSwapUtility\obj\Debug\net10.0\ref\GenericSwapUtility.dll
