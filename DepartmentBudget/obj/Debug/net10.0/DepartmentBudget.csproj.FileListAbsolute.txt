@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\DepartmentBudget\bin\Debug\net10.0\DepartmentBudget.exe
+C:\Projects\Dotnet_Training\DepartmentBudget\bin\Debug\net10.0\DepartmentBudget.deps.json
+C:\Projects\Dotnet_Training\DepartmentBudget\bin\Debug\net10.0\DepartmentBudget.runtimeconfig.json
+C:\Projects\Dotnet_Training\DepartmentBudget\bin\Debug\net10.0\DepartmentBudget.dll
+C:\Projects\Dotnet_Training\DepartmentBudget\bin\Debug\net10.0\DepartmentBudget.pdb
+C:\Projects\Dotnet_Training\DepartmentBudget\obj\Debug\net10.0\DepartmentBudget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\DepartmentBudget\obj\Debug\net10.0\DepartmentBudget.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\DepartmentBudget\obj\Debug\net10.0\DepartmentBudget.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\DepartmentBudget\obj\Debug\net10.0\DepartmentBudget.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\DepartmentBudget\obj\Debug\net10.0\DepartmentBudget.sourcelink.json
+C:\Projects\Dotnet_Training\DepartmentBudget\obj\Debug\net10.0\DepartmentBudget.dll
+C:\Projects\Dotnet_Training\DepartmentBudget\obj\Debug\net10.0\refint\DepartmentBudget.dll
+C:\Projects\Dotnet_Training\DepartmentBudget\obj\Debug\net10.0\DepartmentBudget.pdb
+C:\Projects\Dotnet_Training\DepartmentBudget\obj\Debug\net10.0\DepartmentBudget.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\DepartmentBudget\obj\Debug\net10.0\ref\DepartmentBudget.dll
