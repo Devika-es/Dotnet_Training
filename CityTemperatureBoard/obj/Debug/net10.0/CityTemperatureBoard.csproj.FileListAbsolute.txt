@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\CityTemperatureBoard\bin\Debug\net10.0\CityTemperatureBoard.exe
+C:\Projects\Dotnet_Training\CityTemperatureBoard\bin\Debug\net10.0\CityTemperatureBoard.deps.json
+C:\Projects\Dotnet_Training\CityTemperatureBoard\bin\Debug\net10.0\CityTemperatureBoard.runtimeconfig.json
+C:\Projects\Dotnet_Training\CityTemperatureBoard\bin\Debug\net10.0\CityTemperatureBoard.dll
+C:\Projects\Dotnet_Training\CityTemperatureBoard\bin\Debug\net10.0\CityTemperatureBoard.pdb
+C:\Projects\Dotnet_Training\CityTemperatureBoard\obj\Debug\net10.0\CityTemperatureBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\CityTemperatureBoard\obj\Debug\net10.0\CityTemperatureBoard.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\CityTemperatureBoard\obj\Debug\net10.0\CityTemperatureBoard.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\CityTemperatureBoard\obj\Debug\net10.0\CityTemperatureBoard.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\CityTemperatureBoard\obj\Debug\net10.0\CityTemperatureBoard.sourcelink.json
+C:\Projects\Dotnet_Training\CityTemperatureBoard\obj\Debug\net10.0\CityTemperatureBoard.dll
+C:\Projects\Dotnet_Training\CityTemperatureBoard\obj\Debug\net10.0\refint\CityTemperatureBoard.dll
+C:\Projects\Dotnet_Training\CityTemperatureBoard\obj\Debug\net10.0\CityTemperatureBoard.pdb
+C:\Projects\Dotnet_Training\CityTemperatureBoard\obj\Debug\net10.0\CityTemperatureBoard.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\CityTemperatureBoard\obj\Debug\net10.0\ref\CityTemperatureBoard.dll
