@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\BankAccountMAnager\bin\Debug\net10.0\BankAccountMAnager.exe
+C:\Projects\Dotnet_Training\BankAccountMAnager\bin\Debug\net10.0\BankAccountMAnager.deps.json
+C:\Projects\Dotnet_Training\BankAccountMAnager\bin\Debug\net10.0\BankAccountMAnager.runtimeconfig.json
+C:\Projects\Dotnet_Training\BankAccountMAnager\bin\Debug\net10.0\BankAccountMAnager.dll
+C:\Projects\Dotnet_Training\BankAccountMAnager\bin\Debug\net10.0\BankAccountMAnager.pdb
+C:\Projects\Dotnet_Training\BankAccountMAnager\obj\Debug\net10.0\BankAccountMAnager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\BankAccountMAnager\obj\Debug\net10.0\BankAccountMAnager.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\BankAccountMAnager\obj\Debug\net10.0\BankAccountMAnager.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\BankAccountMAnager\obj\Debug\net10.0\BankAccountMAnager.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\BankAccountMAnager\obj\Debug\net10.0\BankAccountMAnager.sourcelink.json
+C:\Projects\Dotnet_Training\BankAccountMAnager\obj\Debug\net10.0\BankAccountMAnager.dll
+C:\Projects\Dotnet_Training\BankAccountMAnager\obj\Debug\net10.0\refint\BankAccountMAnager.dll
+C:\Projects\Dotnet_Training\BankAccountMAnager\obj\Debug\net10.0\BankAccountMAnager.pdb
+C:\Projects\Dotnet_Training\BankAccountMAnager\obj\Debug\net10.0\BankAccountMAnager.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\BankAccountMAnager\obj\Debug\net10.0\ref\BankAccountMAnager.dll
