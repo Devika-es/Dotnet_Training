@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\TransactionLogValidator\bin\Debug\net10.0\TransactionLogValidator.exe
+C:\Projects\Dotnet_Training\TransactionLogValidator\bin\Debug\net10.0\TransactionLogValidator.deps.json
+C:\Projects\Dotnet_Training\TransactionLogValidator\bin\Debug\net10.0\TransactionLogValidator.runtimeconfig.json
+C:\Projects\Dotnet_Training\TransactionLogValidator\bin\Debug\net10.0\TransactionLogValidator.dll
+C:\Projects\Dotnet_Training\TransactionLogValidator\bin\Debug\net10.0\TransactionLogValidator.pdb
+C:\Projects\Dotnet_Training\TransactionLogValidator\obj\Debug\net10.0\TransactionLogValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\TransactionLogValidator\obj\Debug\net10.0\TransactionLogValidator.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\TransactionLogValidator\obj\Debug\net10.0\TransactionLogValidator.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\TransactionLogValidator\obj\Debug\net10.0\TransactionLogValidator.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\TransactionLogValidator\obj\Debug\net10.0\TransactionLogValidator.sourcelink.json
+C:\Projects\Dotnet_Training\TransactionLogValidator\obj\Debug\net10.0\TransactionLogValidator.dll
+C:\Projects\Dotnet_Training\TransactionLogValidator\obj\Debug\net10.0\refint\TransactionLogValidator.dll
+C:\Projects\Dotnet_Training\TransactionLogValidator\obj\Debug\net10.0\TransactionLogValidator.pdb
+C:\Projects\Dotnet_Training\TransactionLogValidator\obj\Debug\net10.0\TransactionLogValidator.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\TransactionLogValidator\obj\Debug\net10.0\ref\TransactionLogValidator.dll
