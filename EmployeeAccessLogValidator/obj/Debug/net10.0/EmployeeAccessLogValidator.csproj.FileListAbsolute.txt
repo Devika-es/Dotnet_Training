@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\bin\Debug\net10.0\EmployeeAccessLogValidator.exe
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\bin\Debug\net10.0\EmployeeAccessLogValidator.deps.json
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\bin\Debug\net10.0\EmployeeAccessLogValidator.runtimeconfig.json
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\bin\Debug\net10.0\EmployeeAccessLogValidator.dll
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\bin\Debug\net10.0\EmployeeAccessLogValidator.pdb
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\obj\Debug\net10.0\EmployeeAccessLogValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\obj\Debug\net10.0\EmployeeAccessLogValidator.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\obj\Debug\net10.0\EmployeeAccessLogValidator.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\obj\Debug\net10.0\EmployeeAccessLogValidator.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\obj\Debug\net10.0\EmployeeAccessLogValidator.sourcelink.json
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\obj\Debug\net10.0\EmployeeAccessLogValidator.dll
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\obj\Debug\net10.0\refint\EmployeeAccessLogValidator.dll
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\obj\Debug\net10.0\EmployeeAccessLogValidator.pdb
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\obj\Debug\net10.0\EmployeeAccessLogValidator.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\obj\Debug\net10.0\ref\EmployeeAccessLogValidator.dll
