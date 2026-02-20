@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\PlaylistManager\bin\Debug\net10.0\PlaylistManager.exe
+C:\Projects\Dotnet_Training\PlaylistManager\bin\Debug\net10.0\PlaylistManager.deps.json
+C:\Projects\Dotnet_Training\PlaylistManager\bin\Debug\net10.0\PlaylistManager.runtimeconfig.json
+C:\Projects\Dotnet_Training\PlaylistManager\bin\Debug\net10.0\PlaylistManager.dll
+C:\Projects\Dotnet_Training\PlaylistManager\bin\Debug\net10.0\PlaylistManager.pdb
+C:\Projects\Dotnet_Training\PlaylistManager\obj\Debug\net10.0\PlaylistManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\PlaylistManager\obj\Debug\net10.0\PlaylistManager.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\PlaylistManager\obj\Debug\net10.0\PlaylistManager.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\PlaylistManager\obj\Debug\net10.0\PlaylistManager.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\PlaylistManager\obj\Debug\net10.0\PlaylistManager.sourcelink.json
+C:\Projects\Dotnet_Training\PlaylistManager\obj\Debug\net10.0\PlaylistManager.dll
+C:\Projects\Dotnet_Training\PlaylistManager\obj\Debug\net10.0\refint\PlaylistManager.dll
+C:\Projects\Dotnet_Training\PlaylistManager\obj\Debug\net10.0\PlaylistManager.pdb
+C:\Projects\Dotnet_Training\PlaylistManager\obj\Debug\net10.0\PlaylistManager.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\PlaylistManager\obj\Debug\net10.0\ref\PlaylistManager.dll
