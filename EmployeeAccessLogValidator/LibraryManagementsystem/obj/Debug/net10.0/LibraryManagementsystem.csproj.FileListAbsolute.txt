@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\bin\Debug\net10.0\LibraryManagementsystem.exe
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\bin\Debug\net10.0\LibraryManagementsystem.deps.json
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\bin\Debug\net10.0\LibraryManagementsystem.runtimeconfig.json
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\bin\Debug\net10.0\LibraryManagementsystem.dll
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\bin\Debug\net10.0\LibraryManagementsystem.pdb
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\obj\Debug\net10.0\LibraryManagementsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\obj\Debug\net10.0\LibraryManagementsystem.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\obj\Debug\net10.0\LibraryManagementsystem.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\obj\Debug\net10.0\LibraryManagementsystem.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\obj\Debug\net10.0\LibraryManagementsystem.sourcelink.json
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\obj\Debug\net10.0\LibraryManagementsystem.dll
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\obj\Debug\net10.0\refint\LibraryManagementsystem.dll
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\obj\Debug\net10.0\LibraryManagementsystem.pdb
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\obj\Debug\net10.0\LibraryManagementsystem.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\EmployeeAccessLogValidator\LibraryManagementsystem\obj\Debug\net10.0\ref\LibraryManagementsystem.dll
