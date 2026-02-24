@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\FitPulse\bin\Debug\net10.0\FitPulse.exe
+C:\Projects\Dotnet_Training\FitPulse\bin\Debug\net10.0\FitPulse.deps.json
+C:\Projects\Dotnet_Training\FitPulse\bin\Debug\net10.0\FitPulse.runtimeconfig.json
+C:\Projects\Dotnet_Training\FitPulse\bin\Debug\net10.0\FitPulse.dll
+C:\Projects\Dotnet_Training\FitPulse\bin\Debug\net10.0\FitPulse.pdb
+C:\Projects\Dotnet_Training\FitPulse\obj\Debug\net10.0\FitPulse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\FitPulse\obj\Debug\net10.0\FitPulse.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\FitPulse\obj\Debug\net10.0\FitPulse.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\FitPulse\obj\Debug\net10.0\FitPulse.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\FitPulse\obj\Debug\net10.0\FitPulse.sourcelink.json
+C:\Projects\Dotnet_Training\FitPulse\obj\Debug\net10.0\FitPulse.dll
+C:\Projects\Dotnet_Training\FitPulse\obj\Debug\net10.0\refint\FitPulse.dll
+C:\Projects\Dotnet_Training\FitPulse\obj\Debug\net10.0\FitPulse.pdb
+C:\Projects\Dotnet_Training\FitPulse\obj\Debug\net10.0\FitPulse.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\FitPulse\obj\Debug\net10.0\ref\FitPulse.dll
