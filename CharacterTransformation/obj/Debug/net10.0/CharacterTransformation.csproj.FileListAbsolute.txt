@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\CharacterTransformation\bin\Debug\net10.0\CharacterTransformation.exe
+C:\Projects\Dotnet_Training\CharacterTransformation\bin\Debug\net10.0\CharacterTransformation.deps.json
+C:\Projects\Dotnet_Training\CharacterTransformation\bin\Debug\net10.0\CharacterTransformation.runtimeconfig.json
+C:\Projects\Dotnet_Training\CharacterTransformation\bin\Debug\net10.0\CharacterTransformation.dll
+C:\Projects\Dotnet_Training\CharacterTransformation\bin\Debug\net10.0\CharacterTransformation.pdb
+C:\Projects\Dotnet_Training\CharacterTransformation\obj\Debug\net10.0\CharacterTransformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\CharacterTransformation\obj\Debug\net10.0\CharacterTransformation.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\CharacterTransformation\obj\Debug\net10.0\CharacterTransformation.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\CharacterTransformation\obj\Debug\net10.0\CharacterTransformation.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\CharacterTransformation\obj\Debug\net10.0\CharacterTransformation.sourcelink.json
+C:\Projects\Dotnet_Training\CharacterTransformation\obj\Debug\net10.0\CharacterTransformation.dll
+C:\Projects\Dotnet_Training\CharacterTransformation\obj\Debug\net10.0\refint\CharacterTransformation.dll
+C:\Projects\Dotnet_Training\CharacterTransformation\obj\Debug\net10.0\CharacterTransformation.pdb
+C:\Projects\Dotnet_Training\CharacterTransformation\obj\Debug\net10.0\CharacterTransformation.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\CharacterTransformation\obj\Debug\net10.0\ref\CharacterTransformation.dll
